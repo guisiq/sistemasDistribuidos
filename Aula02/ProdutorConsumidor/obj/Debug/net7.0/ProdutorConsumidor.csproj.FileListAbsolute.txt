@@ -1,0 +1,15 @@
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\obj\Debug\net7.0\ProdutorConsumidor.csproj.AssemblyReference.cache
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\obj\Debug\net7.0\ProdutorConsumidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\obj\Debug\net7.0\ProdutorConsumidor.AssemblyInfoInputs.cache
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\obj\Debug\net7.0\ProdutorConsumidor.AssemblyInfo.cs
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\obj\Debug\net7.0\ProdutorConsumidor.csproj.CoreCompileInputs.cache
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\bin\Debug\net7.0\ProdutorConsumidor.exe
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\bin\Debug\net7.0\ProdutorConsumidor.deps.json
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\bin\Debug\net7.0\ProdutorConsumidor.runtimeconfig.json
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\bin\Debug\net7.0\ProdutorConsumidor.dll
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\bin\Debug\net7.0\ProdutorConsumidor.pdb
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\obj\Debug\net7.0\ProdutorConsumidor.dll
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\obj\Debug\net7.0\refint\ProdutorConsumidor.dll
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\obj\Debug\net7.0\ProdutorConsumidor.pdb
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\obj\Debug\net7.0\ProdutorConsumidor.genruntimeconfig.cache
+C:\Users\lopes\Documents\facudade\sistemasDistribuidos\Aula02\ProdutorConsumidor\obj\Debug\net7.0\ref\ProdutorConsumidor.dll

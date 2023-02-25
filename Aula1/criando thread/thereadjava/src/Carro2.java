@@ -1,5 +1,3 @@
-import java.io.IOException;
-import java.nio.CharBuffer;
 
 public class Carro2 implements Runnable{
     public Double velocidade;
